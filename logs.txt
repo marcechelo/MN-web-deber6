@@ -1,0 +1,9 @@
+baseUrl: 
+hostname: localhost
+subdomains: 
+ip: ::1
+method: GET
+originalUrl: /Controlador/ejemplo
+path: /Controlador/ejemplo
+protocol: http
+headers: [object Object]]
